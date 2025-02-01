@@ -77,17 +77,17 @@
     <!-- Banner Section with Socials aligned with Title -->
     <div class="banner">
         <div class="banner-content">
-            <h1>Your Brand Name</h1>
+            <h1>Piston Wear Apparel</h1>
             <div class="socials">
                 <!-- Social 1 -->
                 <a href="https://instagram.com" target="_blank" class="social-link">
                     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
-                    <span>@YourInstagram</span>
+                    <span>@piston.wear.apparel</span>
                 </a>
                 <!-- Social 2 -->
-                <a href="https://twitter.com" target="_blank" class="social-link">
+                <a href="https://youtube.com" target="_blank" class="social-link">
                     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-                    <span>@YourTwitter</span>
+                    <span>@piston.wear.apparell</span>
                 </a>
             </div>
         </div>
