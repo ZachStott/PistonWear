@@ -38,7 +38,7 @@
             text-decoration: none;
         }
         .social-link img {
-            width: 12px;  /* Reduced size */
+            width: 12px;  
             height: 12px;
             margin-right: 5px;
             border-radius: 50%;
@@ -79,15 +79,15 @@
         <div class="banner-content">
             <h1>Piston Wear Apparel</h1>
             <div class="socials">
-                <!-- Social 1 -->
-                <a href="https://instagram.com" target="_blank" class="social-link">
+                <!-- Instagram -->
+                <a href="https://www.instagram.com/piston.wear.apparel?igsh=MWNsdWRpeDV0NDJ5OA%3D%3D&utm_source=qr" target="_blank" class="social-link">
                     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
                     <span>@piston.wear.apparel</span>
                 </a>
-                <!-- Social 2 -->
-                <a href="https://youtube.com" target="_blank" class="social-link">
-                    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-                    <span>@piston.wear.apparell</span>
+                <!-- Printify -->
+                <a href="https://piston-wear.printify.me/" target="_blank" class="social-link">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" alt="Printify">
+                    <span>Shop Now</span>
                 </a>
             </div>
         </div>
